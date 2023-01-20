@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-one {
+    text-align: center;
+    font-size: 3rem;
+}
+
+div a {
+    margin-left: 1%;
+}
