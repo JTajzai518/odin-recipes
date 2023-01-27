@@ -10,7 +10,7 @@
     text-decoration: underline;
 }
 
-div a {
+.container a {
     font-size: 1.7rem;
     line-height: 50px;
     margin-left: 4%;
