@@ -4,6 +4,8 @@
     background-color: #BF8876;
 }
 
+/* Index Page */
+
 .header-one {
     text-align: center;
     font-size: 3.5rem;
@@ -35,7 +37,6 @@
     display: flex;
     align-content: center;
     justify-content: center;
-    
 }
 
 .recipe-image {
@@ -48,7 +49,7 @@ ul {
     list-style-type: none;
     border: 2px solid black;
     border-radius: 2%;
-    height: 400px;
+    height: 300px;
     width: 450px;
     background-color: whitesmoke;
     box-shadow: 0px 0px 20px rgb(0 0 0 / 48%);
@@ -61,3 +62,4 @@ a:visited {
 a:hover {
     color: red;
 }
+
