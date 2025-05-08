@@ -1,1 +1,1 @@
-# odin-recipes
+This project will be focusing on my favorite recipe!
